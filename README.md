@@ -1,4 +1,3 @@
----
 # Evaluating and Debiasing Media Bias with Large Language Models
 
 ## Overview
